@@ -3,7 +3,7 @@ const bodyParser = require('body-parser');
 const request = require('request');
 const app = express()
 
-const apiKey = '3810563fa33964675dd1a10f3b6f7c15';
+// TO DO FIX API KEY
 
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({ extended: true }));
