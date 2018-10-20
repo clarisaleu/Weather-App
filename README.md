@@ -2,8 +2,6 @@
 
 ---
 
-Containarized using RedHat's OpenShift Platform at http://prjt-prjt.7e14.starter-us-west-2.openshiftapps.com/ (No longer active)
-
 ## Running Application Locally
 
 ```
